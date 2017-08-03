@@ -3,3 +3,4 @@ Your use of this documentation implies you agree to the license terms described 
 
 This would tell the user about the documentation. If there are build commands, they'd be here. Anything specific to someone who wants to edit the contents
 
+Source-code from the examples is available in [this repository](https://github.com/edbratt/test-document-examples)
