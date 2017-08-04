@@ -6,3 +6,5 @@ This would tell the user about the documentation. If there are build commands, t
 Source-code from the examples is available in [this repository](https://github.com/edbratt/test-document-examples)
 
 If you wish to contribute to this documentation, please see the [Contributing](CONTRIBUTING.md) page.
+
+If you encounter any mistakes or find problems with this documentation, please log into GitHub file an [Issue](https://github.com/edbratt/test-document-text/issues).
